@@ -1,0 +1,1 @@
+# Ejercio 1.2 de la Guia Tematica de ejercicios del taller integrador
