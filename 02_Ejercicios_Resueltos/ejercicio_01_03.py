@@ -1,8 +1,15 @@
+# Declaro las variables para las operaciones
+
 primerNumero = int(input('Ingrese el primer numero Real: '))
 segundoNumero = int(input('Ingrese el segundo numero Real: '))
+
+# Imprimo los resultados utilizando las operaciones aritmeticas.
 if segundoNumero <= 0 :
+    # Suma
     suma = primerNumero + segundoNumero
+    # Resta
     resta = primerNumero - segundoNumero
+    # Multiplicacion
     multiplicacion = primerNumero * segundoNumero
 
     print('---------------- Resultados -------------------')
